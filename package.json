@@ -1,0 +1,6 @@
+{
+  "name": "vaibhav-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Developer portfolio (static site on Vercel)"
+}
